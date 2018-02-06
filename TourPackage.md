@@ -47,7 +47,7 @@
 3.Poland    packet 46,000 baht.  
 4.Monaco    packet 51,000 baht.  
 5.Spain     packet 55,000 baht.    
-Choose your packet number: <span style=color:#3399FF>5</span>  
+Choose your packet number: **5**    
 How many people are go: <span style=color:#3399FF>2</span>  
 Want to rent a car?  
 2000/1day  
